@@ -1,0 +1,21 @@
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# Env
+env/
+.env
+
+# Flask
+instance/
+webapp.egg-info/
+*.egg-info/
+*.egg
+
+# SQLAlchemy
+.mypy_cache/
+.sqlitedb
